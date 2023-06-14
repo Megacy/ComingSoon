@@ -2,10 +2,10 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  <Layout title="Coming Soon - Clean Coming Soon Page (Tailwind CSS, NextJs & HTML5) created by themeptation.net">
+  <Layout title="Coming Soon -  Aban Solutions.com">
     <img
       src="/images/xera.svg"
-      alt="Themeptation "
+      alt="Aban Solutions "
       className="absolute h-96 -top-20 -right-16 lg:right-5 lg:top-10 animate-blob"
     />
     <img
@@ -29,7 +29,7 @@ const IndexPage = () => (
       <form className="relative z-10 mx-10 lg:max-w-xl lg:mx-auto">
         <input
           type="text"
-          placeholder="hi@themeptation.net"
+          placeholder="hi@abansolutions.com"
           className="w-full text-2xl font-light text-gray-900 placeholder-gray-500 py-5 pl-5 pr-36 lg:pr-44 rounded-xl"
         />
         <button className="absolute top-1 right-1 bottom-1 px-4 lg:px-10 text-xl font-semibold bg-gray-900 text-white rounded-xl transition ease-in-out duration-500 hover:bg-red-500">
